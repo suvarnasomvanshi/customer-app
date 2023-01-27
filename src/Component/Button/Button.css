@@ -1,0 +1,18 @@
+.main{
+    background-color: rgba(169, 169, 169, 0.745);
+    height: 110px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+  }
+  .popup{
+    height: 50px;
+    width: 30px;
+    background: rgb(246, 247, 247);
+    position: absolute;
+    top:9;
+    left:4;
+  }
+  h2:hover{
+    background: rgb(167, 54, 54);
+    }

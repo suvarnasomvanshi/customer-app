@@ -1,0 +1,84 @@
+.mains{
+    background: rgb(203, 255, 200);
+    width: 30vw;
+    height: 90vh;
+}
+.mains2{
+    height: 12vh;
+    width: 30vw;
+    background: rgb(177, 13, 13);
+}
+.customer{
+    width: 4vw;
+    height: 4vh;
+    background: rgb(16, 156, 65);
+    font-weight: 500;
+    
+    
+}
+.btn1{
+  height: 2vh;
+  width: 2vw;
+  margin-top: -1vh;
+  margin-left: 15vw;
+  border: 2px solid black;
+}
+.btn2{
+   height: 2vh;
+   width: 2vw;
+   margin-top: -1vw;
+   margin-left: 26vw;
+   border: 2px solid black;
+}
+.maindiv{
+    
+    height: 85vh;
+width: 35vw;
+background: rgb(146, 34, 100);
+display: flex;
+align-items: center;
+justify-content: center;
+}*
+
+.dialog{
+    
+    margin-top: 12vh;
+    margin-left: 36vw;
+    height: 80vh;
+    width: 40vw;
+    background: rgb(225, 154, 12);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.border{
+    width: 100%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid whitesmoke;
+    text-decoration-line: underline;
+}
+
+.select{
+    height: 5vh;
+    width: 10vw;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    margin-left: 19vw;
+}
+.profile{
+    margin-top: 6vh;
+    margin-left: 0.5vw;
+    padding-top: 5vh;
+    height: 10vh;
+    width: 29vw;
+    background-color: #a09a5a;
+    justify-content: space-between;
+}
+.input{
+    height: 10vh;
+    width: 35vw;
+}

@@ -1,0 +1,9 @@
+.main{
+    width: 100vw;
+    background: rgba(78, 1, 1, 0.849);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-weight: 1000;
+    font-size: larger;
+}

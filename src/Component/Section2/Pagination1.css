@@ -1,0 +1,25 @@
+.profile{
+    margin-top: 6vh;
+    margin-left: 0.5vw;
+    padding-top: 5vh;
+    height: 10vh;
+    width: 29vw;
+    background-color: #a09a5a;
+    justify-content: space-between;
+}
+.btn3{
+    height: 6vh;
+    width: 8vw;
+    margin-top: 3vh;
+    margin-left: 2vw;
+    border: 2px solid black;
+    background: rgb(204, 65, 65);
+  }
+  .btn4{
+    height: 6vh;
+    width: 8vw;
+    margin-top: 3vh;
+    margin-left: 12vw;
+    border: 2px solid black;
+    background: rgb(204, 65, 65);
+  }
